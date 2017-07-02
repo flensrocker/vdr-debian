@@ -4,9 +4,13 @@
 99_ncursesw-include.patch:369cb4b4097d4fde066e2723f0f15ffa
 opt-37-x_menuorg.patch:d6f3f9d7411483b1cf2d907bcfef1a80
 opt-42-x_MainMenuHooks-v1.0.1.patch:1c353c47b53b3770f7dc3abd570588b8
-opt-50_graphtft.patch:835be65b6c650245360d762958247f16
+opt-50_graphtftng.patch:cf1ccfbeddcf2dcfcf4d532e82092d15
 opt-56_eventdetails_v3.patch:8b9f94bb59d6ff3c5068a6ec855fe790
 opt-61_dynamite.patch:b25b1d521d65afb6e4a5cc9efeb887b4
-opt-65_pin.patch:36d917bd0dc846d2edf94a2adf9308b7
-vdr-2.3.1-hide-first-recording-level-v1.patch:7dca47c124ec3eb1193b7ac783007360
+opt-65_pin.patch:8304c0f16cce080689d48b96d22ed56f
 vdr-2.2.0-missing-plugin.patch:4dcd9323530dcd19f45eea608fb34955
+vdr-2.2.0-toomanypids.patch:3b30f63e69828db6a9a97e3e2d984c25
+vdr-2.2.0-caid_buffer-v3.patch:f77319f74ec62af61562e120ae8e3236
+vdr-2.2.0-h265-frame-parser.patch:680663a8ee51b1d8dc3c38917388fa7f
+vdr-2.2.0-mutex-deadlock.patch:7b932a5b5e5fecbc2c30f80619b91738
+systemd.patch:263b8db8a6cb952fe9157dbf4c76aaa5
